@@ -13,3 +13,6 @@ addfive(nums)
 # Trigger documentation creation
 document()
 
+use_testthat()
+use_test("addfive")
+test()
